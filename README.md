@@ -1,0 +1,3 @@
+# DatabaseTesting
+
+To run tests. it is required put a valid hostname...
